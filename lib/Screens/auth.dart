@@ -108,6 +108,7 @@ class _AuthScreenState extends State<AuthScreen> {
                 width: 200,
                 child: Image.asset('assets/images/chat.png'),
               ),
+              const Text('Hello World'),
               Card(
                 margin: EdgeInsets.all(20),
                 child: SingleChildScrollView(
